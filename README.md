@@ -10,3 +10,6 @@ conda create --name gisEnv python=2.7
 activate gisEnv
 conda install -c ioos geopandas
 ```
+### GIS Software
+
+[QGIS](https://qgis.org/en/site/) is open source and good.
